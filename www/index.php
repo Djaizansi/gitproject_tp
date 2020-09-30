@@ -1,6 +1,10 @@
 <?php
 session_start();
 
+
+// Description (TP Versionning)
+
+
 function myAutoloader($class)
 {
     if (file_exists("core/".$class.".class.php")) {
