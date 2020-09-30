@@ -1,6 +1,7 @@
 <section style="text-align: center; background-color: #2c8dfd;height:99vh;">
     <div class="container clearfix">
-        // Test pour commit signé
+       
+	 // Test pour commit signé, valide
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <img src="../../images/panneau-404.png">
