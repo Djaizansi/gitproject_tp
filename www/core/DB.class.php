@@ -1,4 +1,5 @@
 <?php
+//test commit signé
 class DB
 {
     private $table;
