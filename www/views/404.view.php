@@ -1,6 +1,6 @@
 <section style="text-align: center; background-color: #2c8dfd;height:99vh;">
     <div class="container clearfix">
-        <h1><?= $error ;?></h1>
+        // Test pour commit signé
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <img src="../../images/panneau-404.png">
