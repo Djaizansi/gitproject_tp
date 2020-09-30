@@ -8,7 +8,7 @@ class DB
     {
         //SINGLETON
         try {
-            $this->pdo = new PDO(DB_DRIVER.":host=".DB_HOST.";dbname=".DB_NAME, DB_USER, DB_PWD);
+            $this->pdo = new PDO(DB_DRIVER.":host=".DB_HOST.";dbname=".DB_NAME.";charset=UTF8", DB_USER, DB_PWD);
         } catch (Exception $e) {
             die("Erreur SQL : ".$e->getMessage());
         }

@@ -32,9 +32,9 @@
   controller: "user"
   action: "forgotPwd"
 
-
-
-
+/404:
+  controller: "user"
+  action: "error"
 
 
 

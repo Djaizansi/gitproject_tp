@@ -58,4 +58,9 @@ class UserController
     {
         $myView = new View("forgotPwd", "account");
     }
+
+    public function errorAction()
+    {
+        $myView = new View("404", "front");
+    }
 }

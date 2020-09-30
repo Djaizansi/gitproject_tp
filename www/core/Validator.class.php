@@ -32,8 +32,8 @@ class Validator{
 					
 
 				//Vérifier le captcha
-				if($_SESSION["captcha"] !== ????? ){
-
+				if($_SESSION["captcha"] !== $data[$name] ){
+					$listOfErrors[]=$config["errorMsg"];
 				}
 
 				//Vérifier le password
@@ -59,5 +59,6 @@ class Validator{
 	}
 
 	public static function checkPwd($email){
+	}//Erreur compilation (rajout accolade fermante)
 
 }
