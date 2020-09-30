@@ -1,6 +1,7 @@
 <section style="text-align: center; background-color: #2c8dfd;height:99vh;">
     <div class="container clearfix">
-        <h1><?= $error ;?></h1>
+       <h1>La page 404</h1>
+	 // Test pour commit signé, valide
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <img src="../../images/panneau-404.png">
