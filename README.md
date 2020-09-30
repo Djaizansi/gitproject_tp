@@ -51,8 +51,8 @@ Ce projet a été fabriqué avec les différents programmes/langages :
 Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://github.com/Djaizansi/git_projet/blob/master/CONTRIBUTING.md) pour savoir comment le faire.
 
 ## Versions
-**Dernière version stable :** 1.0
-Liste des versions : [Cliquer pour afficher](https://github.com/Djaizansi/git_projet/tags)
+**Dernière version stable :** 0.1
+Liste des versions : [Cliquer pour afficher](https://github.com/Djaizansi/gitproject_tp/tags)
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
